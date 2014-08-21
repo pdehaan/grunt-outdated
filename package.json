@@ -1,0 +1,22 @@
+{
+  "name": "grunt-outdated",
+  "version": "0.1.0",
+  "description": "GruntJS wrapper for `npm outdated`.",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt"
+  },
+  "keywords": [
+    "gruntplugin",
+    "npm",
+    "outdated"
+  ],
+  "author": "Peter deHaan <peter@deseloper.com> (http://nodeexamples.com/)",
+  "license": "WTFPL",
+  "devDependencies": {
+    "grunt": "0.4.5"
+  },
+  "dependencies": {
+    "shelljs": "0.3.0"
+  }
+}
